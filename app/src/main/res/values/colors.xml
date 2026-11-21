@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Deep Blue -->
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_variant">#1E40AF</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary Colors - Warm Amber -->
+    <color name="secondary">#F59E0B</color>
+    <color name="secondary_variant">#D97706</color>
+    <color name="on_secondary">#1F2937</color>
+
+    <!-- Surface Colors -->
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1F2937</color>
+    <color name="surface_variant">#F3F4F6</color>
+    <color name="on_surface_variant">#374151</color>
+
+    <!-- Error Colors -->
+    <color name="error">#DC2626</color>
+    <color name="on_error">#FFFFFF</color>
+
+    <!-- Outline -->
+    <color name="outline">#D1D5DB</color>
+
+    <!-- Semantic Colors for Articles -->
+    <color name="article_der">#1E3A8A</color>
+    <color name="article_die">#DB2777</color>
+    <color name="article_das">#16A34A</color>
+
+    <!-- Mastery Colors -->
+    <color name="mastery_hard">#DC2626</color>
+    <color name="mastery_good">#F59E0B</color>
+    <color name="mastery_easy">#16A34A</color>
+
+    <!-- Background -->
+    <color name="background">#FAFAFA</color>
+    <color name="on_background">#1F2937</color>
+
+    <!-- Ad Banner Background -->
+    <color name="ad_banner_bg">#F9FAFB</color>
+</resources>

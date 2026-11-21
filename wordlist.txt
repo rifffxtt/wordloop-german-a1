@@ -1,0 +1,1125 @@
+`Bulgarisch|Bulgarian
+Deutsch|German
+Englisch|English
+Indonesisch|Indonesian
+international|international
+Italienisch|Italian
+Japanisch|Japanese
+Russisch|Russian
+Serbisch|Serbian
+Spanisch|Spanish
+Türkisch|Turkish
+Ungarisch|Hungarian
+Französisch|French
+Arabisch|Arabic
+Polnisch|Polish
+guten Tag|Good day! Hello!
+gut|good
+was|what?
+zuordnen|to assign, to match
+die Autobahn|highway
+das Butterbrot|sandwich
+das Würstchen|sausage
+der Kindergarten|kindergarten
+die Flasche|bottle
+das Handtuch|towel
+der Koffer|suitcase
+der/die Kranke|sick person
+die Nudel|noodle
+heißen|to be called
+die Sprache|language
+das Wort|word
+machen|to make
+sammeln|to collect
+Hallo|hello
+Tschüs|bye
+auch|also
+bis bald|see you soon
+danke|thank you
+die Entschuldigung|excuse me
+ganz|pretty, quite
+gehen|to go
+hören|to hear
+ich|I
+lesen|to read
+die Person|person
+sehr|very
+sein|to be
+wer|who?
+die Situation|situation
+spielen|to play
+bekannt|well-known
+der Name|name
+oder|or
+auf Wiedersehen|goodbye
+Frau|Mrs, woman
+gute Nacht|good night
+guten Abend|good evening
+guten Morgen|good morning
+Herr|Mr
+mein|my
+der Nachname|last name
+der Vorname|first name
+die Antwort|answer
+aus|from
+Deutschland|Germany
+kommen|to come
+sprechen|to speak
+wo|where
+woher|from where
+wohnen|to live
+zwei|two
+der Buchstabe|letter
+bitte|please
+buchstabieren|to spell
+langsam|slow
+verstehen|to understand
+das Land|country
+lernen|to learn
+die Stadt|city
+kurz|short`,
+
+2:`gern|gladly, like to
+die Leute|people
+fotografieren|to photograph
+der Freund|friend
+die Freundin|female friend, girlfriend
+joggen|to jog
+der Kollege|colleague
+die Kollegin|colleague (female)
+die Musik|music
+singen|to sing
+tanzen|to dance
+das Kino|movie theater
+kochen|to cook
+reisen|to travel
+schwimmen|to swim
+antworten|to answer
+arbeiten|to work
+ja|yes
+nein|no
+das Buch|book
+Fußball|football
+lieben|to love
+super|super
+toll|great
+wir|we
+das Foto|photo
+lustig|funny
+morgen|tomorrow
+das Wochenende|weekend
+das Hobby|hobby
+mit|with
+der Montag|Monday
+der Dienstag|Tuesday
+der Mittwoch|Wednesday
+der Donnerstag|Thursday
+der Freitag|Friday
+der Samstag|Saturday
+der Sonntag|Sunday
+wann|when
+der Wochentag|day of the week
+leider|unfortunately
+oft|often
+das Café|café
+das Museum|museum
+das Restaurant|restaurant
+das Schwimmbad|swimming pool
+der Termin|appointment
+das Theater|theatre
+der Artikel|article
+der Arzt|doctor
+die Ärztin|doctor (female)
+das Auto|car
+der Beruf|occupation
+der Computer|computer
+das Geld|money
+das Glas|glass
+der Kellner|waiter
+die Kellnerin|waitress
+die Rechnung|bill
+der Schlüssel|key
+der Stift|pencil
+die Straße|street
+der Student|student
+die Tablette|pill
+der Taxifahrer|taxi driver
+der Abend|evening
+aber|but
+alt|old
+fahren|to drive
+groß|large
+haben|to have
+das Jahr|year
+das Krankenhaus|hospital
+die Stunde|hour
+die Woche|week
+das Zimmer|room
+der Lehrer|teacher
+der Architekt|architect
+der Friseur|hairdresser
+der Informatiker|computer scientist
+der Ingenieur|engineer
+der Koch|cook
+der Polizist|police officer
+blau|blue
+grün|green
+rot|red
+die Farbe|colour
+die Adresse|address
+neu|new
+die Schule|school
+Tennis|tennis
+weiblich|female
+männlich|male
+dreißig|thirty
+fünfzig|fifty`,
+
+3:`die Stadttour|city tour
+die Station|station
+der Bahnhof|train station
+der Besucher|visitor
+breit|wide
+der Euro|euro
+hoch|high
+die Kirche|church
+das Konzert|concert
+das Konzerthaus|concert hall
+kosten|to cost
+der Meter|metre
+das Rathaus|town hall
+der Star|star
+der Turm|tower
+der Fluss|river
+der Hafen|harbour
+das Meer|sea
+das Schiff|ship
+sehen|to see
+das Symbol|symbol
+der Zug|train
+die Ausstellung|exhibition
+die Brücke|bridge
+lang|long
+das Dorf|village
+das Hotel|hotel
+die Taxifahrt|taxi ride
+der Weg|way
+interessant|interesting
+die Kunsthalle|art gallery
+die Lösung|solution
+der Plan|plan
+rechts|right
+richtig|correct
+schön|pretty
+der See|lake
+zeichnen|to draw
+aufstehen|to stand up
+die Gruppe|group
+das Haus|house
+der Satz|sentence
+der Arm|arm
+der Tisch|table
+der Bus|bus
+das Fahrrad|bicycle
+die U-Bahn|subway
+das Flugzeug|airplane
+die Straßenbahn|tram
+das Bild|picture
+die Fahrkarte|ticket
+das Glück|luck
+heute|today
+jetzt|now
+schnell|quick
+links|left
+geradeaus|straight ahead
+der Dank|thanks
+einfach|easy
+genau|exactly
+der Markt|market
+der Park|park
+der Chor|choir
+das Event|event
+das Festival|festival
+der Film|film
+der Gast|guest
+das Orchester|orchestra
+das Publikum|audience
+der Regisseur|director
+der Schauspieler|actor
+das Ticket|ticket
+die Welt|world
+der Frühling|spring
+der Sommer|summer
+der Herbst|autumn
+der Winter|winter
+der Januar|January
+der Juli|July
+der Monat|month
+die Jahreszeit|season
+das Plakat|poster`,
+
+4:`der Apfelsaft|apple juice
+die Banane|banana
+das Brötchen|bread roll
+die Butter|butter
+die Cola|cola
+das Ei|egg
+der Essig|vinegar
+das Fleisch|meat
+das Frühstück|breakfast
+das Gemüse|vegetables
+guten Appetit|Enjoy your meal!
+der Joghurt|yogurt
+die Kartoffel|potato
+der Käse|cheese
+das Lebensmittel|groceries
+die Marmelade|jam
+die Milch|milk
+das Mittagessen|lunch
+das Müsli|muesli
+das Öl|oil
+der Orangensaft|orange juice
+der Pfeffer|pepper
+das Salz|salt
+der Tee|tea
+das Wasser|water
+die Bäckerei|bakery
+einkaufen|to shop
+die Metzgerei|butcher
+der Supermarkt|supermarket
+das Abendessen|dinner
+das Brot|bread
+die Gurke|cucumber
+der Kaffee|coffee
+der Keks|cookie
+der Kuchen|cake
+die Sahne|cream
+der Salat|salad
+der Schinken|ham
+die Schokolade|chocolate
+die Suppe|soup
+die Tomate|tomato
+die Wurst|sausage
+der Zucker|sugar
+der Apfel|apple
+das Geschäft|shop
+kaufen|to buy
+bis später|see you later
+die Einladung|invitation
+das Essen|meal, food
+fertig|ready
+grillen|to barbecue
+die Nachricht|message
+vielleicht|maybe
+die Zeit|time
+alles|everything
+brauchen|to need
+der Einkaufszettel|grocery list
+das Getränk|drink
+teuer|expensive
+die Birne|pear
+der Fisch|fish
+das Hähnchen|chicken
+die Olive|olive
+die Pommes frites|chips
+der Reis|rice
+schmecken|to taste
+süß|sweet
+der Saft|juice
+essen|to eat
+zusammen|together
+der Preis|price
+die Tüte|bag
+lecker|tasty
+satt|full
+trinken|to drink
+der Hunger|hunger
+der Durst|thirst
+gesund|healthy
+das Obst|fruit
+die Pizza|pizza
+schlafen|to sleep
+frisch|fresh
+helfen|to help
+klein|small
+die Zwiebel|onion
+wichtig|important`,
+
+5:`der Alltag|everyday life
+besuchen|to visit
+die Bibliothek|library
+duschen|to shower
+die Familie|family
+die Mensa|canteen
+die Oma|grandma
+treffen|to meet
+die Uni|university
+lange|long
+die Zeitung|newspaper
+das Büro|office
+die Uhrzeit|time of day
+spät|late
+das Viertel|quarter
+der Geburtstag|birthday
+die Geige|violin
+der Kalender|calendar
+die Mutter|mother
+der Onkel|uncle
+das Spiel|game
+das Training|practice
+die Trompete|trumpet
+bleiben|to stay
+die Eltern|parents
+falsch|wrong
+das Kind|child
+krank|sick
+die Musikschule|music school
+der Sohn|son
+telefonieren|to telephone
+die Tochter|daughter
+der Vater|father
+zu Hause|at home
+beschreiben|to describe
+der Bruder|brother
+ledig|single
+die Schwester|sister
+verheiratet|married
+die Geschwister|siblings
+die Großeltern|grandparents
+die Großmutter|grandmother
+der Großvater|grandfather
+der Opa|grandpa
+das Baby|baby
+der Junge|boy
+das Mädchen|girl
+der Ball|ball
+der Hund|dog
+das Motorrad|motorcycle
+der Sport|sport
+der Hamster|hamster
+die Maus|mouse
+das Saxofon|saxophone
+die Hausaufgabe|homework
+können|to be able to
+müssen|to have to
+das Problem|problem
+der Stress|stress
+wollen|to want
+die Party|party
+die Idee|idea
+schade|pity
+der Sprachkurs|language class
+die Praxis|surgery
+tun|to do
+höflich|polite
+der Kunde|customer
+offen|open
+die Bar|bar
+die Minute|minute
+die Pünktlichkeit|punctuality
+sitzen|to sit
+die Sekunde|second
+die Verspätung|delay
+entschuldigen|to excuse
+pünktlich|on time`,
+
+6:`feiern|to celebrate
+das Fitness-Studio|gym
+glauben|to believe
+klettern|to climb
+der Ski|ski
+wandern|to hike
+dann|then
+echt|really
+einladen|to invite
+die Fahrradtour|bike ride
+klar|of course
+klingen|to sound
+das Picknick|picnic
+schenken|to give as a gift
+die Überraschung|surprise
+werden|to become
+besonders|special
+das Datum|date
+abholen|to pick up
+anfangen|to start
+anrufen|to call
+der Ausflug|excursion
+das Geschenk|present
+hoffentlich|hopefully
+mitbringen|to bring along
+mitkommen|to come along
+mitmachen|to participate
+der Regen|rain
+schicken|to send
+der Treffpunkt|meeting point
+wissen|to know
+aufhören|to stop
+das Fest|festival
+herzlich|warm
+bestellen|to order
+die Bestellung|order
+bringen|to bring
+passieren|to happen
+verboten|forbidden
+das Eis|ice cream
+die Salami|salami
+das Schnitzel|schnitzel
+die Speisekarte|menu
+die Tomatensuppe|tomato soup
+die Gabel|fork
+der Löffel|spoon
+das Messer|knife
+die Serviette|napkin
+die Tasse|cup
+der Teller|plate
+bezahlen|to pay
+zahlen|to pay
+das Trinkgeld|tip
+der Durst|thirst
+der Hunger|hunger
+wieder|again
+der Besuch|visit
+kalt|cold
+warm|warm
+die Bank|bench, bank
+der Biergarten|beer garden
+draußen|outside
+das Kaffeehaus|coffee shop
+die Kneipe|bar
+das Lokal|restaurant
+das Sandwich|sandwich
+die Sonne|sun
+der Spielplatz|playground
+die Strandbar|beach bar
+typisch|typical
+überall|everywhere
+voll|full
+das Wetter|weather
+die Anmeldung|registration
+die Anzeige|advertisement
+aufpassen|to pay attention
+der Beginn|beginning
+beginnen|to begin
+der Eintritt|entrance
+enden|to end
+fehlen|to miss
+genießen|to enjoy
+laufen|to run
+der Marathon|marathon
+die Nacht|night
+die Natur|nature
+das Programm|program
+die Aktivität|activity
+die Lust|desire, mood
+warum|why`,
+
+7:`der Arbeitsalltag|workday
+annehmen|to accept
+mitnehmen|to take along
+das Paket|package
+bis dann|until then
+doch|on the contrary
+die Reihenfolge|sequence
+später|later
+der Nachbar|neighbour
+anders|different
+bedeuten|to mean
+der Blog|blog
+endlich|finally
+erklären|to explain
+der Fehler|mistake
+das Leben|life
+leicht|easy
+das Lied|song
+die Pause|break
+das Praktikum|internship
+der Kundenbesuch|customer visit
+der Mitarbeiter|colleague
+das Sommerfest|summer festival
+der Urlaub|holiday
+die Aussprache|pronunciation
+nach Hause|home
+wohin|where to
+der Automat|vending machine
+bar|in cash
+genug|enough
+holen|to get
+das Konto|account
+die Kreditkarte|credit card
+überweisen|to transfer
+die Bank|bank
+der Bericht|report
+dauern|to last
+korrigieren|to correct
+die Post|post office
+der Zufall|coincidence
+der Zahnarzt|dentist
+der Bäcker|baker
+der Hausmeister|caretaker
+der Akku|battery
+anmachen|to turn on
+ausmachen|to turn off
+die Datei|file
+drucken|to print
+der Drucker|printer
+eingeben|to enter
+hochfahren|to start up
+leer|empty
+das Netz|reception
+offline|offline
+öffnen|to open
+das Passwort|password
+speichern|to save
+das WLAN|Wi-Fi
+aktuell|current
+argentinisch|Argentinian
+der Brief|letter
+diskutieren|to discuss
+der Erwachsene|adult
+das Mitglied|member
+die Spezialität|specialty
+der Stadtpark|city park
+Südamerika|South America
+zeigen|to show
+der Kontakt|contact
+der Empfänger|recipient
+die Unterschrift|signature
+auswendig|by heart
+die Dame|madam
+freundlich|friendly
+denken|to think
+die Krankheit|illness
+die Mittagspause|lunch break
+die Politik|politics
+die Religion|religion
+die Serie|series
+der Aufzug|elevator
+beliebt|popular
+das Fernsehen|television
+gestern|yesterday
+interessieren|to interest
+langweilig|boring
+reden|to talk
+schwer|difficult
+der Small Talk|small talk
+eigentlich|actually
+heiß|hot
+regnen|to rain
+schrecklich|terrible`,
+
+8:`leben|to live
+das Bett|bed
+egal|whatever
+faul|lazy
+fit|fit
+die Freizeit|free time
+hungrig|hungry
+losgehen|to start
+müde|tired
+regelmäßig|regularly
+richtig|really
+schaffen|to manage
+sicher|sure
+die Süßigkeit|sweet
+täglich|daily
+gefährlich|dangerous
+gerade|at the moment
+vergessen|to forget
+vermissen|to miss
+aktiv|active
+anziehen|to get dressed
+der Comic|comic book
+die Fitness-App|fitness app
+der Sportschuh|trainer
+weitermachen|to continue
+ruhig|quiet
+aufmachen|to open
+aufschreiben|to write down
+das Fenster|window
+leise|quiet
+die Tafel|blackboard
+vorlesen|to read aloud
+wiederholen|to repeat
+wiegen|to weigh
+das Alter|age
+das Gewicht|weight
+die Größe|size
+schwer|heavy
+der Bauch|stomach
+das Bein|leg
+der Finger|finger
+der Fuß|foot
+der Hals|neck
+die Hand|hand
+das Knie|knee
+der Kopf|head
+der Körper|body
+der Rücken|back
+der Körperteil|body part
+das Auge|eye
+das Gesicht|face
+das Haar|hair
+der Mund|mouth
+die Nase|nose
+das Ohr|ear
+der Zahn|tooth
+riechen|to smell
+bekommen|to get
+der Doktor|doctor
+das Rezept|prescription
+die Salbe|salve
+der Unfall|accident
+der Verband|bandage
+verletzt|injured
+die Apotheke|pharmacy
+bewegen|to move
+Gute Besserung|get well soon
+die Kontrolle|check
+kontrollieren|to check
+wehtun|to hurt
+die Wunde|wound
+der Arztbesuch|visit to the doctor
+sofort|immediately
+sollen|to be supposed to
+die Bauchschmerzen|stomach pain
+erkältet|having a cold
+das Fieber|fever
+husten|to cough
+schlecht|sick
+total|totally
+baden|to bath
+dürfen|to be allowed to
+der Hustensaft|cough syrup
+rauchen|to smoke
+der Schmerz|pain
+zweimal|twice
+die Halsschmerzen|sore throat
+die Kopfschmerzen|headache
+die Rückenschmerzen|back pain
+das Pflaster|band-aid
+der Honig|honey
+die Hühnersuppe|chicken soup
+der Schnupfen|common cold
+die Zahnschmerzen|toothache
+versuchen|to attempt
+anstrengend|exhausting
+glücklich|happy
+untersuchen|to examine
+die Hilfe|help`,
+
+9:`das Arbeitszimmer|office
+das Bad|bath
+der Balkon|balcony
+der Fernseher|television
+der Flur|hallway
+das Gerät|device
+der Herd|stove
+die Kaffeemaschine|coffee machine
+das Kinderzimmer|nursery
+die Küche|kitchen
+der Kühlschrank|refrigerator
+die Lampe|lamp
+die Möbel|furniture
+das Regal|shelf
+das Schlafzimmer|bedroom
+der Schrank|wardrobe
+der Schreibtisch|desk
+der Sessel|armchair
+das Sofa|sofa
+die Spülmaschine|dishwasher
+der Stuhl|chair
+der Teppich|carpet
+die Toilette|toilet
+die Waschmaschine|washing machine
+die Wohnung|flat
+das Wohnzimmer|living room
+oben|above
+die Pflanze|plant
+ziehen|to move
+der Lieblingsort|favourite place
+das Lieblingszimmer|favourite room
+hell|light
+die Terrasse|patio
+das Zentrum|centre
+die Miete|rent
+der Wunsch|wish
+das Apartment|apartment
+billig|cheap
+die Dusche|shower
+elegant|elegant
+ideal|ideal
+jung|young
+renoviert|refurbished
+toll|great
+vermieten|to let
+zentral|central
+dunkel|dark
+günstig|low-priced
+stellen|to put
+ausfüllen|to fill in
+besichtigen|to view
+die Kiste|box
+das Licht|light
+packen|to pack
+schließen|to close
+die Tür|door
+umziehen|to move
+der Umzug|move
+unterschreiben|to sign
+der Vermieter|landlord
+der Vertrag|contract
+freuen|to look forward to
+scheinen|to shine
+bald|soon
+die Feier|celebration
+der Glückwunsch|congratulations
+die Einweihungsfeier|housewarming party
+hinter|behind
+neben|next to
+über|over
+unter|under
+zwischen|between
+aussehen|to look
+gemütlich|comfortable
+hässlich|ugly
+braun|brown
+gelb|yellow
+grau|gray
+lila|purple
+orange|orange
+schwarz|black
+weiß|white
+die Altbauwohnung|old-building flat
+die Decke|ceiling
+das Fachwerkhaus|half-timbered house
+der Garten|garden
+das Hochhaus|skyscraper
+das Holz|wood
+das Loft|loft
+der Raum|room
+das Reihenhaus|townhouse
+die Treppe|stairs
+der Bewohner|resident
+der Nachteil|disadvantage
+der Vorteil|advantage
+der Baum|tree
+der Blick|view
+die Blume|flower
+das Erdgeschoss|ground floor
+die Lage|location
+nie|never
+weit|far
+die WG|shared flat
+zufrieden|satisfied`,
+
+10:`das Studium|studies
+betreuen|to supervise
+malen|to paint
+segeln|to sail
+der Unterricht|lessons
+der Künstler|artist
+die Karriere|career
+verdienen|to earn
+der Feierabend|home time
+fleißig|hardworking
+laufen|to run, to go
+leer|empty
+der Professor|professor
+das Projekt|project
+das Semester|semester
+die Prüfung|exam
+die Statistik|statistics
+das Studio|studio
+trainieren|to train
+das Unicafé|university café
+beide|both
+kaum|barely
+nehmen|to take
+die Aufgabe|assignment
+mischen|to mix
+die Agentur für Arbeit|employment agency
+arbeitslos|unemployed
+die Bewerbung|application
+durch|through
+die Ehefrau|wife
+der Ehemann|husband
+eilig|in a hurry
+fliegen|to fly
+freundlich|friendly
+früher|in the past
+die Heimat|home
+das Internet|internet
+der Job|job
+das Job-Portal|job portal
+das Profil|profile
+der Sekretär|secretary
+die Stelle|position
+das Angebot|offer
+die Nachrichten|news
+normal|normal
+der Spaziergang|walk
+der Tennisplatz|tennis court
+wirklich|really
+der Anruf|phone call
+verbinden|to connect
+bestimmt|certain
+melden|to contact, to report
+der Anschluss|connection
+besetzt|busy
+der Anfang|beginning
+die Attraktion|attraction
+das Ausland|abroad
+berühmt|famous
+die Bühne|stage
+das Ende|end
+der Händler|merchant
+insgesamt|all together
+das Karussell|merry-go-round
+die Oper|opera
+stattfinden|to take place
+verkaufen|to sell
+die Ware|goods
+der Weihnachtsmarkt|Christmas market
+der Zuschauer|spectator
+die Veranstaltung|event
+der Arbeitsplatz|workplace
+die Baustelle|construction site
+das Kaufhaus|department store
+die Werkstatt|workshop`,
+
+11:`gefallen|to please, to like
+die Jacke|jacket
+doof|stupid
+eng|tight
+das Hemd|shirt
+die Hose|trousers
+der Rock|skirt
+stehen|to suit
+das T-Shirt|T-shirt
+weit|loose
+die Geschichte|story
+der Anzug|suit
+ausgehen|to go out
+das Kleid|dress
+die Kleidung|clothes
+die Krawatte|tie
+der Pullover|jumper
+tragen|to wear
+die Bluse|blouse
+die Jeans|jeans
+der Mantel|coat
+die Mütze|hat
+der Schuh|shoe
+der Stiefel|boot
+die Tasche|bag
+gleich|the same
+das Kleidergeschäft|clothes shop
+der Laden|shop
+der Secondhand-Laden|second-hand shop
+besser|better
+die Entscheidung|decision
+der Hut|hat
+meinen|to mean
+schauen|to look
+der Schal|scarf
+das Sweatshirt|sweatshirt
+das Tuch|shawl
+ankommen|to arrive
+böse|angry
+empfehlen|to recommend
+entdecken|to discover
+die Klamotten|clothes
+nerven|to annoy
+ohne|without
+online|online
+passen|to fit
+die Reaktion|reaction
+die Sache|thing
+umtauschen|to exchange
+vorgestern|day before yesterday
+zurückschicken|to send back
+anprobieren|to try on
+ausziehen|to take off
+shoppen|to shop
+der Pulli|pullover
+die Abendkleidung|evening wear
+die Bademode|swimwear
+die Damenmode|women's fashion
+das Duschgel|shower gel
+das Elektrogerät|electronic device
+die Freizeitkleidung|leisure clothes
+die Herrenmode|men's fashion
+der Jugendliche|teenager
+die Kamera|camera
+die Kasse|cashier
+die Kosmetik|cosmetics
+der Kugelschreiber|ballpoint pen
+die Mode|fashion
+das Parfüm|perfume
+der Schmuck|jewelry
+die Spielwaren|toys
+die Sportkleidung|sportswear
+die Technik|technology
+die Uhr|clock
+die Zeitschrift|magazine
+das Produkt|product
+der Bleistift|pencil
+kaputt|broken
+das Papier|paper
+der Buchladen|bookstore
+attraktiv|attractive
+das Design|design
+der Fotograf|photographer
+die Hauptstadt|capital city
+individuell|individual
+das Label|brand
+der Modedesigner|fashion designer
+die Modeschule|fashion school
+die Szene|scene
+die Trendstadt|trendy city
+bequem|comfortable
+der Haushalt|household
+das Modell|model
+die Saison|season
+der Shop|shop
+das Souvenir|souvenir
+unterwegs|on the way
+die Architektur|architecture
+der Designer|designer
+die Erfindung|invention
+praktisch|practical
+die Öffnungszeiten|opening hours`,
+
+12:`ab|off
+der Badeurlaub|beach holiday
+der Campingurlaub|camping holiday
+der Ski-Urlaub|skiing holiday
+der Stadturlaub|city trip
+der Badeanzug|swimsuit
+die Badehose|swimming trunks
+der Bikini|bikini
+das Gepäck|luggage
+das Geschirr|dishes
+der Handschuh|glove
+die Handtasche|handbag
+der Helm|helmet
+die Regenjacke|rain jacket
+der Regenschirm|umbrella
+der Reiseführer|travel guide
+die Reisetasche|holdall
+der Schlafsack|sleeping bag
+die Seife|soap
+die Sonnenbrille|sunglasses
+die Sonnencreme|sunscreen
+die Winterjacke|winter coat
+das Zelt|tent
+einpacken|to pack
+die Städtereise|city trip
+die Stadtführung|city tour
+der Ausweis|ID card
+das Doppelzimmer|twin room
+das Einzelzimmer|single room
+die Karte|card, map
+der Pass|passport
+reservieren|to book
+die Rezeption|reception
+wünschen|to wish
+die Bergtour|mountain tour
+spazieren gehen|to go for a walk
+das Tram|tram
+der Vorschlag|suggestion
+danach|afterwards
+der Schluss|end
+einsteigen|to board
+die Haltestelle|stop
+die Route|route
+umsteigen|to transfer
+benutzen|to use
+die Nummer|number
+der Platz|square, place
+abfahren|to depart
+die Abfahrt|departure
+die Ankunft|arrival
+der Ausgang|exit
+aussteigen|to get off
+der Bahnsteig|platform
+die Ecke|corner
+der Flughafen|airport
+gegenüber|across from
+das Gleis|track
+nehmen|to take
+denn|because
+die Postkarte|postcard
+shoppen gehen|to go shopping
+die Tante|aunt
+der Zoo|zoo
+die Kunst|art
+die Sehenswürdigkeit|tourist attraction
+die Auskunft|information
+außerhalb|outside
+der Bekannte|acquaintance
+etwas|a bit
+froh|glad
+der Handy-Akku|phone battery
+die Jugendherberge|youth hostel
+die Pension|guesthouse
+der Reisebericht|travelogue
+sauber|clean
+der Schaffner|conductor
+tatsächlich|actually
+übernachten|to stay overnight
+verpassen|to miss
+wecken|to wake up
+zurückfahren|to drive back
+zurückfinden|to find back
+die Art|type
+der Grund|reason
+chillen|to chill
+gehören|to belong to
+die Lieblingsfarbe|favourite colour
+die Reise|trip
+das Skifahren|skiing
+das Video|video
+wunderbar|wonderful
+das Deutschbuch|German book
+der Flug|flight
+die Wortliste|word list
+die Himmelsrichtung|cardinal direction
+liegen|to be located
+der Norden|north
+der Osten|east
+der Süden|south
+der Westen|west
+vorne|in front
+der Berg|mountain
+bewölkt|cloudy
+die Burg|castle
+der Grad|degree
+das Pech|bad luck
+schneien|to snow
+sonnig|sunny
+der Traum|dream
+der Wetterbericht|weather report
+der Wind|wind
+die Wolke|cloud
+zum Glück|fortunately
+der Schnee|snow
+windig|windy
+die Hitze|heat
+das Mistwetter|bad weather
+schütten|to pour
+selten|rarely
+einmal|once
+das Reiseziel|destination
+das Angebot|offer
+die Bewegung|movement
+das Dorf|village
+die Insel|island
+die Kultur|culture
+die Landschaft|landscape
+populär|popular
+der Strand|beach
+der Traumurlaub|dream holiday
+wunderschön|beautiful
+der Urlaubsort|holiday resort`
